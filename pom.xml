@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.project</groupId>
-    <artifactId>HospitalManagement</artifactId>
+    <artifactId>MedSys</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>HospitalManagement Maven Webapp</name>
+    <name>MedSys Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <!--
@@ -111,6 +111,6 @@
     </dependencies>
 
     <build>
-        <finalName>HospitalManagement</finalName>
+        <finalName>MedSys</finalName>
     </build>
 </project>

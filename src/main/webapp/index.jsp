@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>HMS</title>
+<title>MS</title>
 <meta charset="utf-8">
 		  <meta name="viewport" content="width=device-width, initial-scale=1">
 		  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -16,7 +16,7 @@
 <body style="background-color:#f5f5f5; text-decoration: none; text-align: center;">
 	
 	<br/><br/><br/><br/><br/>
-	<span class="display-1"><span style="color:grey;">S</span><span style="color:red;">A</span><span style="color:grey;">RU</span></span><h1> HOSPITAL</h1>
+	<span class="display-1"><span style="color:grey;">Med</span><span style="color:red;">Sys</span></span><h1> HOSPITAL</h1>
 	<br/><br/><br/>
 			
 	<form action="login.html" method="post">
